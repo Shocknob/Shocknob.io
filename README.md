@@ -1,7 +1,7 @@
 # personal-website-template
 
 A simple one page template suited for personal and portfolio pages. 
-http://shocknob.io
+http://shocknob.GitHub.io
 ## Usage
 
 - Fork this repository
